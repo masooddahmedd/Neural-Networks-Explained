@@ -52,7 +52,7 @@ If you don’t have Jupyter Notebook installed, follow these steps to set it up:
     jupyter notebook
     ```
 
-4. Open the notebook file (`simple_neural_network_from_scratch.ipynb`) from the Jupyter interface and explore the code and explanations.
+4. Open the notebook file (`Forward-Propagation.ipynb`) from the Jupyter interface and explore the code and explanations.
 
 ## How the Neural Network Works
 
